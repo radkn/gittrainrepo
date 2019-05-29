@@ -1,0 +1,7 @@
+Hello world (it is first changed of file)
+
+<<<<<<< HEAD
+Part 2:master changed (git2, part 2)!!! changes
+=======
+Part 2: (git2) changes from greet branchs
+>>>>>>> greet_Radchenko
